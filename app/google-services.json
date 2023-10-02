@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629095119027",
+    "project_id": "exampractice-fe583",
+    "storage_bucket": "exampractice-fe583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629095119027:android:0599e6b2a93ba51cb698c6",
+        "android_client_info": {
+          "package_name": "com.example.exampractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ykrXLVHwKqPoQJ2mn_jwUXPWvZA_L2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
